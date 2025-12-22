@@ -1,5 +1,3 @@
-
-```markdown
 ## Terraform State
 
 Terraform state is a **core concept** that allows Terraform to understand **what infrastructure already exists** and how it relates to your configuration files.
