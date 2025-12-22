@@ -1,10 +1,3 @@
-Below is a **README-ready section** for **Resource Attribute Reference**, written in **simple language**, **short**, and **PDF / Terraform Associate–aligned**.
-
-You can **paste this directly into the same README.md**.
-
----
-
-```markdown
 ## Resource Attribute Reference in Terraform
 
 Resource attribute reference allows Terraform to **use the output of one resource as the input to another resource**.
