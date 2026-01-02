@@ -1,5 +1,5 @@
 # Introduction to Docker
-This section covers the fundamentals of Docker and containerization. These notes are written in simple language and aligned with the **KodeKloud – Docker for Absolute Beginners** course.
+This section covers the fundamentals of Docker and containerization.
 ---
 ## Why do we need Docker?
 Before Docker, applications were installed directly on servers or virtual machines. This often caused issues like dependency conflicts and environment mismatches.
