@@ -79,5 +79,5 @@ Benefits:
 * Container runs in background* Terminal remains free
 ---
 ## Summary
-* `run` → create and start container* `ps` → list running containers* `ps -a` → list all containers* `stop` → stop container* `rm` → remove container* `images` → list images* `rmi` → remove image* `pull` → download image* `exec` → execute inside container
+* `run` → create and start container* <br> `ps` → list running containers* <br> `ps -a` → list all containers*  <br> `stop` → stop container* <br> `rm` → remove container* <br> `images` → list images* <br> `rmi` → remove image* <br> `pull` → download image* <br> `exec` → execute inside container
 ---
